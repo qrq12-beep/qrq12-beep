@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Cloud Compiuting Mjor At NCST
+## I'm a Cloud Compiuting Major At NCST
 
 - 👨‍💻 I’m currently working on getting my aws cloud associate certificate.
 - 📚 Learning everything about Frontend and Backend technologies 😅
@@ -40,7 +40,7 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+
 
 
 <h4 align="center">
