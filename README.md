@@ -1,10 +1,10 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
+### Hi there 👋 I'm [Ali!](https://github.com/qrq12-beep)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
+## I'm a Cloud Compiuting Mjor At NCST
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
+- 👨‍💻 I’m currently working on getting my aws cloud associate certificate.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
@@ -38,11 +38,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
----
-
-Credit: [Danushka2](https://github.com/Danushka2)
-
-Last edited on: 30/06/2022
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
